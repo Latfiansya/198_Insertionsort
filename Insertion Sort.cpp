@@ -28,4 +28,8 @@ void input() {	//prosedur input
 	
 }
 
+void insertionsort() {
+	int temp;
+	int i, j;
+}
 
